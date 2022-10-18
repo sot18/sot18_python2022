@@ -1,0 +1,7 @@
+  {
+    "host" : "67.205.163.33",
+    "user" : "sot18",
+    "password": "InfSci1500_4261894",
+    "db": "sot18",
+    "charset": "utf8mb4"
+}
